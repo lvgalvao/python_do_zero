@@ -1,1 +1,1 @@
-# python_do_zero
+# ola turma! estamos ao vivo
